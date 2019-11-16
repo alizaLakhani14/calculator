@@ -1,0 +1,17 @@
+.ClearButton {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 4em;
+	width: 400px;
+    max-width: 400px;
+    color:black;
+    background-color: gray;
+    font-weight: lighter;
+    font-size: 1.5em;
+    outline:1px solid gray;
+}
+
+.ClearButton:hover{
+    cursor: pointer;
+}

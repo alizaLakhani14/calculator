@@ -1,0 +1,23 @@
+.App {
+	display: flex;
+	justify-content: center;
+	height: 100vh;
+	align-items: center;
+}
+
+.container {
+	width: 400px;
+	max-width: 400px;
+  height: 600px;
+  
+}
+
+.row{
+  display:flex;
+}
+
+
+.row *:hover{
+	cursor: pointer;
+}
+
